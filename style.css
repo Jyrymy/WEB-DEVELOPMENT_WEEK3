@@ -1,0 +1,14 @@
+#externalcss{
+    color: orange;
+    text-align: center;
+}
+
+div{
+    text-align: center;    
+}
+div a{
+    text-decoration: none;
+    font-weight: bold;
+    color: brown;
+
+}
